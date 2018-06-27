@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrafterApp</string>
+    <string name="text">--------------- OR ---------------</string>
+    <string name="need_help">Need Help?</string>
+</resources>
